@@ -1,1 +1,2 @@
 ceci est mon premier fichier
+ceci est une deuxieme ligne pour tester diff
